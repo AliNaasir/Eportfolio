@@ -590,6 +590,12 @@ h6 {
   align-items: center;
   justify-content: center;
 }
+#main > section.about.pb-50 > div > div > div > img{
+  padding-bottom: 35px;
+  height: 100vh;
+  margin-left: 85px;
+}
+
 #skills > div > div.section-title > h2{
   font-weight: 500;
   font-size: 2rem;
